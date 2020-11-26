@@ -1,3 +1,7 @@
 body {
+  color: rgb(255, 0, 0);
   background-color: rgb(204, 164, 108);
+}
+.hero {
+  background: url("images/paysdesmerveilles.jpg")top center no-repeat;
 }
